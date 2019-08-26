@@ -1,0 +1,45 @@
+body{
+	width: 100%;
+	font-family: 'Open Sans Condensed', sans-serif;
+    background-image: url("image/b.gif");
+	height: 100%;
+}
+
+#main{
+	position: absolute;
+	top: 5%;
+	left: 25%;
+    padding: 1%;
+    font-size: 2vw;
+    background-color: #ccdadc36;
+    width: 53%;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+
+}
+#firstbutton{
+    font-size: 2vw;
+    background-color: black;
+    width: 30%;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 37px;
+   -webkit-transition-duration: 0.4s; /* Safari */
+ 	transition-duration: 0.4s;
+   
+}
+ 
+
+#firstbutton:hover {
+  background-color: #e1eaef59; /* Green */
+  color: white;
+}
+
+input{
+	    box-sizing: border-box;
+	    font-size: 2vw;
+    	width: 24%;
+    font-family: 'Open Sans Condensed', sans-serif;
+ 
+
+}
