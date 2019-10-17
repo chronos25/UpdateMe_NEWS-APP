@@ -7,7 +7,7 @@ const config = require ('./configration/facebook');
 
 const bodyparser = require('body-parser');
 const hostname = 'localhost';
-const apiKey = '0fa0b6b239724401b7e2761106a4d65a'; 
+const apiKey = '0fa0b6XXXXXXXXXXXXXXXXXXXXXXXXX'; 
 const app =express();
 
 
