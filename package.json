@@ -9,6 +9,7 @@
     "ejs": "^2.6.1",
     "express": "^4.17.1",
     "mustache-express": "^1.2.8",
+    "passport-facebook": "^3.0.0",
     "request": "^2.88.0"
   },
   "devDependencies": {},
