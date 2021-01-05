@@ -4,7 +4,7 @@
   "description": "news ",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.17.1",
